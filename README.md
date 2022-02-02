@@ -1,6 +1,6 @@
-### Oi, eu sou o Bruno Rodrigues
+### Oi, eu sou o Bruno Rodrigues, apaixonado por tecnologia mais especificamente com programação utilizando a linguagem Java, porém não me importo de aprender novas tecnologias.
 
-- 🔭 Eu trabalho com Java
+Conte comigo!
 
 <div align="center">
 
@@ -13,9 +13,4 @@
   <a href="https://github.com/brunordg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunordg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunordg&layout=compact&langs_count=7&theme=react"/>
-</div>
-  
-  
-<div> 
-  ![Snake animation](https://github.com/brunordg/brunordg/blob/output/github-contribution-grid-snake.svg)
 </div>
