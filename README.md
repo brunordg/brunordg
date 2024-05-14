@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">Techs</h3>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -47,20 +47,18 @@
 
 ###
 
-<h3 align="left"></h3>
-
-###
-
 <h3 align="right">Social Media</h3>
 
 ###
 
+<br clear="both">
+
 <div align="right">
-  <a href="https://www.linkedin.com/in/brunorodrigues-rodrigues/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="https://www.instagram.com/bruno2rdg/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/brunorodrigues-rodrigues/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
