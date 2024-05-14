@@ -1,16 +1,79 @@
-### Oi, eu sou o Bruno Rodrigues, apaixonado por tecnologia mais especificamente com programação utilizando a linguagem Java, porém não me importo de aprender novas tecnologias.
+<h2 align="left">About Me</h2>
 
-Conte comigo!
+###
+
+<p align="left">Oi, eu sou o Bruno Rodrigues, apaixonado por tecnologia mais especificamente com programação utilizando a linguagem Java, porém gosto muito de aprender novas tecnologias.</p>
+
+###
+
+<h3 align="left">Techs</h3>
+
+###
 
 <div align="center">
-
-  <a href="https://instagram.com/bruno2rdg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rodrigues.brodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunorodrigues-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  <h1> </h1>
-  
-  <a href="https://github.com/brunordg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunordg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunordg&layout=compact&langs_count=7&theme=react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
+
+###
+
+<h3 align="left">Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunordg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunordg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/brunordg/brunordg/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">Medium</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@brunordg&theme=tokyonight" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<h3 align="left">Social Media</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/brunorodrigues-rodrigues/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/bruno2rdg/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@brunordg&theme=tokyonight" alt="Layout with last medium posts"  />
+</div>
+
+###
