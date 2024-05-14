@@ -6,6 +6,17 @@
 
 ###
 
+<h3 align="left">Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunordg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunordg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
+</div>
+
+###
+
 <h3 align="left">Techs</h3>
 
 ###
@@ -32,26 +43,19 @@
 
 ###
 
-<h3 align="left">Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunordg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunordg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/brunordg/brunordg/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h3 align="left"></h3>
 
 ###
 
-<div align="left">
+<h3 align="right">Social Media</h3>
+
+###
+
+<div align="right">
   <a href="https://www.linkedin.com/in/brunorodrigues-rodrigues/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -63,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@brunordg&theme=tokyonight" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=brunordg" alt="Layout with last medium posts"  />
 </div>
 
 ###
