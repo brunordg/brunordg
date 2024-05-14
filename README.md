@@ -47,16 +47,6 @@
 
 ###
 
-<h3 align="left">Medium</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=brunordg&theme=tokyonight" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <h3 align="left">Social Media</h3>
 
 ###
