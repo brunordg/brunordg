@@ -34,9 +34,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunordg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunordg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=brunordg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=brunordg&layout=compact&theme=radical&hide_border=true&langs_count=5)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brunordg&theme=radical&hide_border=true)
 
