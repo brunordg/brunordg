@@ -1,6 +1,9 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Bruno+Rodrigues;Backend+Developer+%7C+Java+%7C+Kotlin;Clean+Architecture+%7C+Microservices;Learning+new+technologies" alt="Typing SVG" />
-
 <div align="center">
+
+# Hi 👋 I'm Bruno Rodrigues
+### Backend Developer | Java | Kotlin | Clean Architecture | Microservices
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunorodrigues-rodrigues/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno2rdg/)
@@ -59,8 +62,8 @@
 | [hexagonal](https://github.com/brunordg/hexagonal) | Java | Hexagonal (Ports & Adapters) architecture |
 | [kafka-forge](https://github.com/brunordg/kafka-forge) | Python | Kafka utilities and tools |
 | [order-pattern](https://github.com/brunordg/order-pattern) | Java | Outbox pattern implementation |
-| [replyon-web](https://github.com/brunordg/replyon-web) | TypeScript | Modern web application |
 | [bruno](https://github.com/brunordg/bruno) | Kotlin | Kotlin playground and experiments |
+| [cqrs](https://github.com/brunordg/cqrs) | Java | CQRS pattern implementation |
 
 ---
 
